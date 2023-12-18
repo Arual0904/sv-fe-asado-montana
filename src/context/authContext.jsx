@@ -5,6 +5,7 @@ Fecha de modificación: 15/12/2023
 Descripción: Funciones para el registro e inicio de sesión con Firebase.
 */
 
+// TODO: verify this
 import {auth} from "../firebase/firebase.integration";
 import { createContext, useContext, useEffect, useState } from "react";
 import { 
